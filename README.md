@@ -1,3 +1,15 @@
+# 👋 Hi friends! I'm Ivan.
+
+I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/'). 
+
+Find me at:
+
+### [🌐 https://hcoco1-site.vercel.app/](https://hcoco1-site.vercel.app/)
+### [@hcoco1 on Twitter](https://twitter.com/hcoco1)
+
+<hr />
+
+
 <div align="center"><h1>Ivan Arias. Full-Stack Engineering Student.</h1></div>
 
 <div id="badges" align="center">
