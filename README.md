@@ -1,12 +1,3 @@
-# 👋 Hi friends! I'm Ivan.
-
-I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/'). 
-
-Find me at:
-
-### [🌐 My Site](https://hcoco1-site.vercel.app/)
-### [@hcoco1 on Twitter](https://twitter.com/hcoco1)
-
 <hr />
 
 
@@ -25,9 +16,14 @@ Find me at:
   
 </div>  
 
+
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 ---
 
-Hi! My name is Ivan Arias, and I am a student of a Software Engineer. I am learning to build front-ends with ReactJS. Also, I am gaining a thorough understanding of Flask to create JSON APIs and then combine them with a scalable React front end, resulting in slick, functional, and interactive full-stack applications. I have a background in geological modeling and mapping software (GIS). I want to apply all my experience and the tech skill set I am building at Flatiron School to help develop modern web applications.
+
 
 
 <!--
