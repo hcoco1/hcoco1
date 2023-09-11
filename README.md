@@ -4,7 +4,7 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 
 Find me at:
 
-### [🌐 https://hcoco1-site.vercel.app/](https://hcoco1-site.vercel.app/)
+### [🌐 My Site](https://hcoco1-site.vercel.app/)
 ### [@hcoco1 on Twitter](https://twitter.com/hcoco1)
 
 <hr />
