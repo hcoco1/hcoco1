@@ -36,6 +36,4 @@
 - [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
 - [Aggregate functions](https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/)
 - [Dynamic Tables in React](https://hcoco1-blog.onrender.com/creating-a-dynamic-table-in-react/)
-- [JS Dynamic List](https://hcoco1-blog.onrender.com/javascript-dynamic-list/)
-- [Changing careers](https://hcoco1-blog.onrender.com/changing-careers/)
 <!-- BLOG-POST-LIST:END -->
