@@ -8,6 +8,10 @@
 [![Blog](https://img.shields.io/badge/Blog-Read-orange)](https://hcoco1-blog.onrender.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@hcoco1/videos)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hcoco1?label=Follow&style=social)](https://twitter.com/hcoco1)
+[![Replit](https://img.shields.io/badge/Replit-@hcoco1-blue?logo=replit)](https://replit.com/@hcoco1)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-hcoco1-blue?logo=codesandbox)](https://codesandbox.io/u/hcoco1)
+
+
 
 </div>
 <hr />        
