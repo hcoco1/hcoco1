@@ -1,7 +1,9 @@
 <hr />
 
 
-<div align="center"><h1>Ivan Arias. Full-Stack Engineering Student.</h1>
+<div align="center">
+  <h1 style="text-align: center;">Ivan Arias</h1>
+  <h2 style="text-align: center;">Full-Stack Engineering Student.</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Arias-%232867B2?style=social&logo=linkedin)](https://www.linkedin.com/in/arias-ivan-hcoco1/)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://hcoco1-site.vercel.app/)
