@@ -1,6 +1,4 @@
 <hr />
-
-
 <div align="center">
   <h1 style="text-align: center;">Ivan Arias</h1>
   <h2 style="text-align: center;">Full-Stack Engineering Student.</h2>
@@ -12,22 +10,8 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hcoco1?label=Follow&style=social)](https://twitter.com/hcoco1)
 
 </div>
-
-
-
-  
-
-
-
-
-
-
-</div>  
-
-
 <hr />        
-<div>
-  
+
 ### :hammer_and_wrench: Languages and Tools :
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -46,12 +30,6 @@
 </div>
 <hr />   
 
-
-
-
-
-
-
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
@@ -61,12 +39,3 @@
 - [JS Dynamic List](https://hcoco1-blog.onrender.com/javascript-dynamic-list/)
 - [Changing careers](https://hcoco1-blog.onrender.com/changing-careers/)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
-
-
-
-
-
