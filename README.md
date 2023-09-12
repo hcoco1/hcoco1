@@ -3,6 +3,8 @@
 
 <div align="center"><h1>Ivan Arias. Full-Stack Engineering Student.</h1></div>
 
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arias-ivan-hcoco1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,8 +24,8 @@
 </div>  
 
 
-
-<div align="center">
+<hr />        
+<div>
   
 ### :hammer_and_wrench: Languages and Tools :
   
