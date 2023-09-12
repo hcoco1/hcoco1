@@ -42,22 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
-  
-### :hammer_and_wrench: Languages and Tools :
-
-<!-- Icons here -->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcoco1&layout=donut" align="left" alt="hcoco1's Top Langs" />
-  
 
 
-  
-
-</div>
 
 
-<div align="center">
+
 
 ### :writing_hand: Latest Blog Posts :
 
@@ -69,7 +58,7 @@
 - [Changing careers](https://hcoco1-blog.onrender.com/changing-careers/)
 <!-- BLOG-POST-LIST:END -->
 
-</div>
+
 
 
 
