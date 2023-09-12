@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
+### :writing_hand: Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
 - [Aggregate functions](https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/)
