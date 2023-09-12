@@ -14,14 +14,19 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
+
+
+
+
+
 </div>  
 
 
 
-
+<div align="center">
+  
 ### :hammer_and_wrench: Languages and Tools :
-
-<div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PythonL"  alt="Python" width="40" height="40"/>&nbsp;
@@ -37,13 +42,33 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
+<div align="center">
+  
+### :hammer_and_wrench: Languages and Tools :
+
+<!-- Icons here -->
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcoco1&layout=donut" align="left" alt="hcoco1's Top Langs" />
+  
+
+
+  
+
+</div>
+
+
+<div align="center">
+
 ### :writing_hand: Latest Blog Posts :
+
 <!-- BLOG-POST-LIST:START -->
-- [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
-- [Aggregate functions](https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/)
-- [Dynamic Tables in React](https://hcoco1-blog.onrender.com/creating-a-dynamic-table-in-react/)
-- [JS Dynamic List](https://hcoco1-blog.onrender.com/javascript-dynamic-list/)
-- [Changing careers](https://hcoco1-blog.onrender.com/changing-careers/)
 <!-- BLOG-POST-LIST:END -->
+
+</div>
+
+
+
+
+
 
 
