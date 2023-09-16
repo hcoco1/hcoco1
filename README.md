@@ -33,7 +33,7 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
-- [Aggregate functions](https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/)
-- [Dynamic Tables in React](https://hcoco1-blog.onrender.com/creating-a-dynamic-table-in-react/)
+- [What is RSS?](https://hcoco1-blog.onrender.com//whats-rss/)
+- [Aggregate functions](https://hcoco1-blog.onrender.com//aggregate-functions-In-SQLAlchemy/)
+- [Dynamic Tables in React](https://hcoco1-blog.onrender.com//creating-a-dynamic-table-in-react/)
 <!-- BLOG-POST-LIST:END -->
