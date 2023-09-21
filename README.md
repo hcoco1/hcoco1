@@ -33,7 +33,7 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Phase 4 Code Challenge](https://hcoco1-blog.onrender.com/phase-4-challenge/)
 - [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
 - [Aggregate functions](https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/)
-- [Dynamic Tables in React](https://hcoco1-blog.onrender.com/creating-a-dynamic-table-in-react/)
 <!-- BLOG-POST-LIST:END -->
