@@ -33,7 +33,7 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Phase 5 Final Project Blog](https://hcoco1-blog.onrender.com/Phase-5-Final-Project-Blog/)
 - [Phase 4 Study Guide](https://hcoco1-blog.onrender.com/phase-4-challenge/)
 - [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
-- [Aggregate functions](https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/)
 <!-- BLOG-POST-LIST:END -->
