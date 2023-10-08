@@ -33,7 +33,7 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Phase 5 Final Project Blog](https://hcoco1-blog.onrender.com/Phase-5-Final-Project-Blog/)
+- [Building a Navigation Bar using React Router](https://hcoco1-blog.onrender.com/Phase-5-Final-Project-Blog/)
 - [Phase 4 Study Guide](https://hcoco1-blog.onrender.com/phase-4-challenge/)
 - [What is RSS?](https://hcoco1-blog.onrender.com/whats-rss/)
 <!-- BLOG-POST-LIST:END -->
