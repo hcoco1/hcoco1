@@ -1,4 +1,4 @@
-<hr />
+
 <div align="center">
   <h1 style="text-align: center;">Ivan Arias</h1>
   <h2 style="text-align: center;">Software Engineer 🧑🏻‍💻 and Geologist 🌏</h2>
@@ -11,7 +11,7 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hcoco1?label=Follow&style=social)](https://twitter.com/hcoco1)
 
 <p align="center">
-  <hr />        
+      
   <b>:hammer_and_wrench: Languages and Tools :</b><br/><br/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </p>
 
-<hr />   
+ 
 <p>
 :writing_hand: Latest Blog Posts :
 
