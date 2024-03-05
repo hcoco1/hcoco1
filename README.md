@@ -1,7 +1,8 @@
 <hr />
 <div align="center">
   <h1 style="text-align: center;">Ivan Arias</h1>
-  <h2 style="text-align: center;">Full-Stack Developer.</h2>
+  <h2 style="text-align: center;">Software Engineer 🧑🏻‍💻 and Geologist 🌏</h2>
+   <h3 style="text-align: center;">Currently diving deep into AWS and cybersecurity to enhance my technical skill set and secure digital environments. </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Arias-%232867B2?style=social&logo=linkedin)](https://www.linkedin.com/in/hcoco1/)
 [![My Website](https://img.shields.io/badge/My%20Website-Visit-green)](https://www.hcoco1.com/)
