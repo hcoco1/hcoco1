@@ -10,7 +10,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@hcoco1/videos)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hcoco1?label=Follow&style=social)](https://twitter.com/hcoco1)
 
-</div>
+</div align="center">
 <hr />        
 
 ### :hammer_and_wrench: Languages and Tools :
