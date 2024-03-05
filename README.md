@@ -33,7 +33,7 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Navigation Bar using React Router](https://hcoco1.blog/Phase-5-Final-Project-Blog/)
-- [Phase 4 Study Guide](https://hcoco1.blog/phase-4-challenge/)
-- [What is RSS?](https://hcoco1.blog/whats-rss/)
+- [My Cloud Computing Journey](https://www.hcoco1.com/blog/2024-02-28-cloud-computing/)
+- [Exploring the Cyber Seas](https://www.hcoco1.com/blog/2024-02-18-career-simulation-1/)
+- [Building a Navigation Bar using React Router](https://www.hcoco1.com/blog/2023-10-07-phase-5-final-project-blog/)
 <!-- BLOG-POST-LIST:END -->
