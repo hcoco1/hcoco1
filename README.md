@@ -27,7 +27,7 @@
 </p>
 
 <hr />   
-
+<p>
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
@@ -35,3 +35,5 @@
 - [Exploring the Cyber Seas](https://www.hcoco1.com/blog/2024-02-18-career-simulation-1/)
 - [Building a Navigation Bar using React Router](https://www.hcoco1.com/blog/2023-10-07-phase-5-final-project-blog/)
 <!-- BLOG-POST-LIST:END -->
+
+</p>
