@@ -1,7 +1,5 @@
 ## Meet Ivan!
 
-![Ivan's GitHub Profile Header Image](img/front_page_hcoco1.png)
-
 Proficient with Python, Flask, and JavaScript-based programming.
 
 I am diving deep into AWS and cybersecurity to enhance my technical skill set and secure digital environments.
