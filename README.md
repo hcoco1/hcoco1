@@ -1,20 +1,4 @@
-## Meet Kattni!
 
-![Kattni's GitHub Profile Header Image]([assets/kattni-github-profile-header-image.png](https://media.licdn.com/dms/image/D4D16AQFvleW5QGGWLQ/profile-displaybackgroundimage-shrink_350_1400/0/1684769385622?e=1718841600&v=beta&t=_xKOMekKu12wLfyt94sGK9qRtvnIUvdxKFgNKVnF7UE))
-
-I am a creator, maker, photographer, programmer, intermittent chef, one-time gardener, and loved wife. I am tolerated by two cats who continue to let me live with them.
-
-I am now pursuing my passions full time. I am passionate about learning new things, creating thorough documentation, and sharing what I know and learn. You can find project builds, tech tutorials, and approachable information here on GitHub, on [my blog](https://kattni.com), and on [my Patreon](https://patreon.com/kattni).
-
-I am the Conference Chair for PyOhio 2024. Keep an eye out [here](https://www.pyohio.org/2024) for updates.
-
-I spent 2017-2023 as an open source community leader, mentor, technical writer, embedded software developer, library manager, and intermittent embedded hardware designer working with Adafruit to on the CircuitPython project. 
-
-### Sponsor Kattni on GitHub
-
-I am sponsored on GitHub by amazing folks who enable me to further share my knowledge. [Find out more](https://github.com/sponsors/kattni) about why you should sponsor me.
-
-[![Github Sponsorship](assets/GitHub_Sponsorship_button.png)](https://github.com/sponsors/kattni)
 
 
 
