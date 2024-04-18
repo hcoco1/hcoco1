@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
-![Kattni's GitHub Profile Header Image](img/front_page_hcoco1.jpeg)
+![Ivan's GitHub Profile Header Image](img/front_page_hcoco1.png)
 
 Proficient with Python, Flask, and JavaScript-based programming.
 
