@@ -1,8 +1,6 @@
 ## Meet Ivan!
 
-Proficient with Python, Flask, and JavaScript-based programming.
-
-I am diving deep into AWS and cybersecurity to enhance my technical skill set and secure digital environments.
+Full Stack Development with Flask and React | Penetration Tester | AWS Enthusiast
 
 
 <p>
