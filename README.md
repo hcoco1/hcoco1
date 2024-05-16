@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
-Full Stack Development with Flask and React | Jr Penetration Tester | AWS Enthusiast
+Full-Stack Developer | Junior Penetration Tester | AWS Enthusiast
 
 
 <p>
