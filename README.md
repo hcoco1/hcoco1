@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
-Full-Stack Developer | Junior Penetration Tester | AWS Enthusiast
+Cybersecurity Specialist | Web Developer | IaC Enthusiast 
 
 
 <p>
