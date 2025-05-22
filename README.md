@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
-Cybersecurity Specialist | Web Developer | IaC Enthusiast 
+Full Stack Developer | Exploring Cloud & WordPress Development
 
 
 <p>
