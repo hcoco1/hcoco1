@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
-Full Stack Developer | Exploring Cloud & WordPress Development
+ Aspiring DevOps Engineer | Hands-On Internship at KubeCraft
 
 
 <p>
