@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
- Aspiring DevOps Engineer | Hands-On Internship at KubeCraft
+ Aspiring DevOps Engineer 
 
 
 <p>
