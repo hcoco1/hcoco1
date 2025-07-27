@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
- Aspiring DevOps Engineer 
+Entry-Level DevOps & Cloud Security | AWS • Python • Linux 
 
 
 <p>
