@@ -1,6 +1,6 @@
 ## Meet Ivan!
 
-Entry-Level DevOps & Cloud Security | AWS • Python • Linux 
+Junior GIS Developer | Web GIS • Python • AWS
 
 
 <p>
